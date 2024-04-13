@@ -28,4 +28,6 @@ Sistem Yem verme zamanlarını hesaplayabilmelidir => getFeedSchedule ()
 
 ## UML Diagramı
 
-![UML çalışması](image/HayvanatBahçesi.JPG)
+![UML çalışması][def]
+
+[def]: image/HayvanatBahçesi.JPG
